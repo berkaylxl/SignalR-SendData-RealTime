@@ -1,6 +1,7 @@
 # SignalR
-<p align="center" src="https://user-images.githubusercontent.com/59365403/187074976-a3db0bf7-4d9b-402e-bc8d-52b4a96c6e73.png">
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59365403/187074976-a3db0bf7-4d9b-402e-bc8d-52b4a96c6e73.png">
+</p>
 
 
 https://user-images.githubusercontent.com/59365403/187074986-b73cca30-a2fe-4a84-9430-69db16a76603.png
